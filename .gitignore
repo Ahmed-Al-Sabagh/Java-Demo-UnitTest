@@ -1,1 +1,18 @@
+# Ignore Java class files
+*.class
 
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build directories
+out/
+bin/
+target/
